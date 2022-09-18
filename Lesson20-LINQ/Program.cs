@@ -104,3 +104,4 @@ namespace LinqLesson
         }
     }
 }
+//checked
