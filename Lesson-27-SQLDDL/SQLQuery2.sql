@@ -36,3 +36,4 @@ CREATE TABLE Transaction_Data
 	Amount FLOAT,
 		CONSTRAINT FK_BankAccount_UserId FOREIGN KEY (UserId) REFERENCES Bank_Account (Id)
 );
+--checked
